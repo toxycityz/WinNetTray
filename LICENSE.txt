@@ -1,0 +1,38 @@
+========================================================================
+WINNETTRAY v1.0.0 - CONTRATTO DI LICENZA D'USO (EULA) E PRIVACY
+Freeware - Tutti i diritti riservati (Copyright © 2026 Luca Tosi)
+========================================================================
+
+Autore e Titolare dei Diritti: Luca Tosi
+Licenza: Freeware - Tutti i diritti riservati (Copyright © 2026 Luca Tosi)
+
+1. CONCESSIONE DI LICENZA GRATUITA (FREEWARE) E LIMITAZIONI
+Il software "WinNetTray" è di proprietà esclusiva di Luca Tosi ed è protetto
+dalle leggi italiane e internazionali sul diritto d'autore (Copyright).
+Tutti i diritti sono riservati.
+
+L'Autore concede all'utente una licenza gratuita, non esclusiva e revocabile
+per installare ed eseguire WinNetTray su computer personali o aziendali.
+
+È ESPRESSAMENTE VIETATO:
+- Vendere, noleggiare, sublicenziare o distribuire a scopo di lucro il software;
+- Modificare, decompilare, disassemblare, effettuare reverse-engineering o
+  estrarre il codice sorgente dagli eseguibili distribuiti;
+- Rimuovere o alterare le indicazioni di Copyright, il nome dell'Autore o i
+  marchi presenti nel programma e nella documentazione.
+
+2. INFORMATIVA PRIVACY E ZERO TELEMETRIA
+WinNetTray opera esclusivamente in locale sul tuo computer Windows.
+L'applicazione NON raccoglie, NON memorizza su server remoti e NON trasmette
+alcun dato personale, cronologia di navigazione, elenco di file o telemetria.
+L'unica interrogazione esterna (eseguita solo su richiesta per mostrare l'IP
+pubblico nel pannello informazioni) contatta in HTTPS endpoint pubblici di
+verifica IP con validazione rigorosa del risultato.
+
+3. ESCLUSIONE DI GARANZIA E LIMITAZIONE DI RESPONSABILITÀ (DISCLAIMER)
+IL SOFTWARE VIENE FORNITO "COSÌ COM'È" ("AS IS"), SENZA ALCUNA GARANZIA
+ESPLICITA O IMPLICITA, INCLUSE, A TITOLO ESEMPLIFICATIVO, LE GARANZIE DI
+COMMERCIABILITÀ O IDONEITÀ PER UNO SCOPO PARTICOLARE.
+IN NESSUN CASO L'AUTORE SARÀ RITENUTO RESPONSABILE PER EVENTUALI DANNI DIRETTI,
+INDIRETTI, INCIDENTALI O CONSEQUENZIALI DERIVANTI DALL'INSTALLAZIONE, DALL'USO
+O DALL'IMPOSSIBILITÀ DI UTILIZZARE QUESTO SOFTWARE.
